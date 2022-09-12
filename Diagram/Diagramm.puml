@@ -8,5 +8,7 @@ else (Nope)
 :Nope;
 endIf
 :New step after If;
+:Another new step;
+:Second another step;
 end
 @enduml
