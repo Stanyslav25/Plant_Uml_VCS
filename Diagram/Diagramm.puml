@@ -7,5 +7,6 @@ if (Your decision) then (Yes)
 else (Nope)
 :Nope;
 endIf
+:New step after If;
 end
 @enduml
