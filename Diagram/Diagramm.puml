@@ -10,7 +10,7 @@ endIf
 :New step after If;
 :Another new step;
 :Second another step;
-if (Your decision) then (Yes)
+if (Your final decision) then (Yes)
 : Yes;
 else (Nope)
 :Nope nope;
