@@ -13,7 +13,7 @@ endIf
 if (Your final decision) then (Yes)
 : Yes;
 else (Nope)
-:Nope nope;
+:No no no;
 endIf
 end
 @enduml
