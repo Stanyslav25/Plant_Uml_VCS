@@ -2,4 +2,10 @@
 :Start;
 :Next step;
 :Final step;
+if (Your decision) then (Yes)
+: Yes;
+else (Nope)
+:Nope;
+endIf
+end
 @enduml
